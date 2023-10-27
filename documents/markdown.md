@@ -1,5 +1,5 @@
 # Can you replicate my Markdown file?
-You can use this link to help you: [Markdown Cheat Sheet] (https://www.markdownguide.org/cheat-sheet/)
+You can use this link to help you: [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 # This line is an H1 Heading
 **Here is some bold text.**
