@@ -12,11 +12,14 @@ Here is a To Do list:
 
 ## This line is an H2 heading
 *Here is some italic text.*
+
 Here is some plain text followed by the simplest Python program:
+
 `print('hello world!')`
 
 ### This line is an H3 heading
 ***Here is some bold + italic text***
+
 Here is a grocery list:
 - Apples
 - Bananas
